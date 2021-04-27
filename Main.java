@@ -12,7 +12,6 @@ public class Main<pubiic> {
 
     public static void main(String[] args) throws IOException {
         // write your code here
-        System.out.println("Hello world");
         //Main.sumOfTwoNumbers(); //advent of code day1 part 1
         //Main.sumOfTwoNumbersSort(); //advent of code day1 part 1 alternate method
         //Main.sumOfThreeNumbersSort(); //advent of code day1 part 2
