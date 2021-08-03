@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>Finding HTML Elements by Id</h2>
+<h2>Finding HTML Elements by Id </h2>
 
 <p id="intro">Hello World!</p>
 <p>This example demonstrates the <b>getElementsById</b> method.</p>
